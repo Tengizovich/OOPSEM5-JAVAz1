@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-import Homework.JAVA_HW11_OOP.Model.Logger.LoggerMP;
+import Homework.JAVA_OOP.Model.Logger.LoggerMP;
 
 public class View {
 
